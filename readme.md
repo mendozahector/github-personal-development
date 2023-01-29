@@ -34,3 +34,15 @@ CRUD: Create, Read, Update, Delete
 2nd - Update, merge, commit
 
 3rd - Merge, commit
+
+## Part 3: Sprint/Completed Story
+
+As a team, we were able to get together and spend some time navigating through GitHub, getting our developer environment running, and adding our individual branch to the project.
+
+**As a** contributing member of Team One
+
+**I need to** re-setup my developer environment and look over the project goals and requirements (new updates were received this week)
+
+**So that** I will be ready to dive into the project, and know what the customer is asking, and start developing ideas and implementing them. Also, completing the SRS document as a Team.
+
+_Summary: Developer Environment is up and running. GitHub profile added as a contributor to the team, and new personal development branch added (see link above). We also went through the User Stories PowerPoint and New Scope Document to better familiarize with our new team tasking._
