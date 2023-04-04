@@ -1,3 +1,32 @@
+# Test-Driven Development (TDD)
+
+_Resources_
+
+[Test-Driven Development IBM](https://www.ibm.com/garage/method/practices/code/practice_test_driven_development/)
+
+[Principle of Test-Driven Development](https://chromatichq.com/insights/principles-testdriven-development/)
+
+_Reflection_
+
+**Four principles associated with TDD and Unit Testing:**
+
+1. Write tests before code
+2. Test one thing and assert many
+3. Use tests as antibodies
+4. Connect tests to user stories
+
+**What advantages as a developer does TDD provide?**
+
+First, it helps develop the logic in your code, by implementing functionality first, and most importantly it helps you avoid bugs from the very beginning.
+
+**What steps do I do to implement TDD?**
+
+Understand the requirement, write code to make tests, and refactor/test code and make it maintainable.
+
+**What tools or software can I use to do unit testing?**
+
+PyUnit and DocTest for Python, csUnit and NUnit for .NET, Junit for Java, etc.
+
 ## Part 1: Links
 
 [UL Panel App Personal Branch](https://github.com/ibex-controls/ul-panel-app/tree/byui-team1-dev-hector)
