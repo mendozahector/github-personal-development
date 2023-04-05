@@ -1,3 +1,25 @@
+# Security
+
+_Resources_
+
+[What is access control? Authentication vs Authorization](https://www.cloudflare.com/learning/access-management/what-is-access-control/)
+
+[Authentication, Authorization & Access Control Technologies](https://www.logsign.com/blog/what-are-appropriate-authentication-authorization-and-access-control-technologies/)
+
+[JavaScript Unit Testing Using Jest](https://www.softwaretestinghelp.com/jest-testing-tutorial/)
+
+_Reflection_
+
+**Key Points:**
+
+- The delivery of a product is more than just coded executables.
+- Waterfall deliverables are still valid (building a plane)
+- Spiral deliverables (objectives, risks, program/product, planning)
+- Agile/Scrumt deliverables (Most common and most popular, stories/definition of done)
+- Steps in a risk management plan (plan, identify, analyze, plan, and monitor risks)
+- Risks Mitigation (Testing, Static vs Dynamic)
+- Always document what you do (communication is vital)
+
 # Test-Driven Development (TDD)
 
 _Resources_
